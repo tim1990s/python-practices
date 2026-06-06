@@ -1,37 +1,56 @@
 # Python Practices
 
-Repository này dùng để lưu các bài luyện tập Python theo từng chủ đề, từ cơ bản đến nâng cao.
+Kho bài luyện tập Python được tổ chức theo từng chủ đề, phục vụ việc học và ôn lại lập trình Python từ nền tảng đến nâng cao.
 
-Mục tiêu chính của dự án là xây dựng một bộ bài tập nhỏ, dễ đọc, dễ chạy và có giải thích rõ ràng. Mỗi file Python là một bài riêng, tập trung vào một kiến thức cụ thể để luyện tập từng bước.
+Mỗi bài tập được viết thành một file `.py` riêng, có phần mô tả bài toán, công thức hoặc ý tưởng giải, ví dụ minh họa và phần code chạy trực tiếp trên terminal.
 
-## Mục Tiêu Dự Án
+## Mục Tiêu
 
-- Luyện tập cú pháp Python cơ bản.
-- Làm quen với biến, nhập xuất, phép toán, điều kiện, vòng lặp, chuỗi, list và function.
-- Viết code đơn giản, rõ ràng, phù hợp cho người mới học.
-- Mỗi bài có phần mô tả, ví dụ, ý tưởng và phần code.
-- Tổ chức bài tập theo từng phần và từng nhóm kiến thức.
+- Xây dựng repository chứa các bài luyện tập Python có hệ thống.
+- Luyện cú pháp Python cơ bản qua các bài nhỏ, dễ chạy, dễ kiểm tra.
+- Tổ chức bài tập theo từng phần: phép toán, điều kiện, vòng lặp, chuỗi, list và function.
+- Giữ code rõ ràng, phù hợp cho người mới học.
+- Theo dõi tiến độ bài đã làm bằng checklist trong `Other/Plan.txt`.
 
 ## Cấu Trúc Dự Án
 
 ```text
 Python Practices/
-|-- PHẦN 1 - BIẾN, NHẬP XUẤT, PHÉP TOÁN (100 BÀI)/
+|-- PHẦN 1 - BIẾN, NHẬP XUẤT, PHÉP TOÁN/
 |   |-- Nhóm A - Phép toán cơ bản (1-20)/
-|   |   |-- Tinh_Tong.py
-|   |   |-- Phep_Toan_Hai_So.py
-|   |   |-- Tinh_Trung_Binh_Cong_2_So.py
+|   |-- Nhóm B - Hình học cơ bản (21-40)/
+|   |-- Nhóm C - Chuyển đổi đơn vị (41-60)/
+|   |-- Nhóm D - Tài chính (61-80)/
+|   |-- Nhóm E - Thời gian và tuổi tác (81-90)/
+|   |-- Nhóm F - Công thức ứng dụng (91-100)/
 |
+|-- PHẦN 2 - ĐIỀU KIỆN IF ELSE/
+|-- PHẦN 3 - VÒNG LẶP  FOR WHILE/
 |-- Other/
+|   |-- Plan.txt
 |   |-- Giai_Phuong_Trinh_Bac_Nhat.py
 |   |-- Giai_Phuong_Trinh_Bac_hai.py
 |   |-- Kiem_Tra_So_Chinh_Phuong.py
 |
+|-- codex/
 |-- .gitignore
 |-- README.md
 ```
 
-## Cách Chạy Chương Trình
+## Tiến Độ Hiện Tại
+
+| Phần | Nhóm | Trạng thái |
+| --- | --- | --- |
+| Phần 1 | Nhóm A - Phép toán cơ bản | Hoàn thành |
+| Phần 1 | Nhóm B - Hình học cơ bản | Hoàn thành |
+| Phần 1 | Nhóm C - Chuyển đổi đơn vị | Hoàn thành |
+| Phần 1 | Nhóm D - Tài chính | Hoàn thành |
+| Phần 1 | Nhóm E - Thời gian và tuổi tác | Hoàn thành |
+| Phần 1 | Nhóm F - Công thức ứng dụng | Chưa hoàn thành |
+
+Chi tiết đầy đủ nằm trong [Plan.txt](Other/Plan.txt).
+
+## Cách Chạy Bài Tập
 
 Mở terminal tại thư mục gốc của dự án:
 
@@ -39,30 +58,28 @@ Mở terminal tại thư mục gốc của dự án:
 cd "C:\Users\mrphu\OneDrive\Desktop\Python Practices"
 ```
 
-Sau đó chạy file Python cần học.
-
-Ví dụ:
+Chạy một file Python bất kỳ:
 
 ```bash
-python "PHẦN 1 - BIẾN, NHẬP XUẤT, PHÉP TOÁN (100 BÀI)/Nhóm A - Phép toán cơ bản (1-20)/Tinh_Trung_Binh_Cong_2_So.py"
+python "PHẦN 1 - BIẾN, NHẬP XUẤT, PHÉP TOÁN/Nhóm A - Phép toán cơ bản (1-20)/Tinh_Thuong.py"
 ```
 
-Hoặc chạy file trong thư mục `Other`:
+Ví dụ khác:
 
 ```bash
-python "Other/Kiem_Tra_So_Chinh_Phuong.py"
+python "PHẦN 1 - BIẾN, NHẬP XUẤT, PHÉP TOÁN/Nhóm E - Thời gian và tuổi tác (81-90)/Tinh_Tuoi_Tu_Nam_Sinh.py"
 ```
 
-## Quy Ước Viết Bài
+## Chuẩn Viết Mỗi Bài
 
-Mỗi bài tập nên có cấu trúc như sau:
+Mỗi file bài tập nên giữ cấu trúc sau:
 
 ```python
 # Tên chương trình
 #
-# Mô tả ngắn gọn bài toán.
+# Mô tả bài toán.
 #
-# Ví dụ:
+# Công thức hoặc ví dụ:
 # ...
 #
 # Ý tưởng:
@@ -73,18 +90,22 @@ Mỗi bài tập nên có cấu trúc như sau:
 # Code Python
 ```
 
-Ví dụ tên file nên viết rõ ràng, không dấu và dùng dấu gạch dưới:
+Quy ước đặt tên file:
+
+- Dùng tiếng Việt không dấu.
+- Dùng dấu gạch dưới `_` để ngăn cách từ.
+- Tên file mô tả đúng nội dung bài.
+
+Ví dụ:
 
 ```text
 Tinh_Tong.py
-Tinh_Hieu.py
-Tinh_Tich.py
-Tinh_Trung_Binh_Cong_2_So.py
+Tinh_Thuong.py
+Tinh_Tien_Lai_Don.py
+Doi_Gio_Sang_Phut.py
 ```
 
 ## Nội Dung Luyện Tập
-
-Dự án có thể được phát triển theo các phần sau:
 
 - Phần 1: Biến, nhập xuất, phép toán.
 - Phần 2: Điều kiện `if/else`.
@@ -93,26 +114,8 @@ Dự án có thể được phát triển theo các phần sau:
 - Phần 5: Danh sách `list`.
 - Phần 6: Hàm `function`.
 
-## Các Bài Đã Có
+## Ghi Chú
 
-- Tính tổng.
-- Tính kết quả của hai số theo phép toán cộng, trừ, nhân, chia.
-- Tính trung bình cộng 2 số.
-- Kiểm tra số chính phương.
-- Giải phương trình bậc nhất.
-- Giải phương trình bậc hai.
-
-## Ghi Chú Git
-
-File `.gitignore` đang bỏ qua các thư mục và file không cần đưa lên repository:
-
-```gitignore
-__pycache__/
-*.py[cod]
-.venv/
-venv/
-.idea/
-Other/Practices/
-```
-
-Thư mục `Other/Practices/` là thư mục phụ và không dùng làm nội dung chính của repository.
+- `Other/Plan.txt` là file theo dõi toàn bộ danh sách bài tập và trạng thái hoàn thành.
+- `.gitignore` bỏ qua môi trường ảo, cache Python, cấu hình IDE và thư mục phụ không dùng làm nội dung chính.
+- Một số file trong `Other` là bài luyện tập riêng hoặc bài tham khảo ngoài cấu trúc chính.
