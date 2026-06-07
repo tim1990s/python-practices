@@ -122,16 +122,16 @@
 
 ## Nhóm F - Công thức ứng dụng (91-100)
 
-- [ ] Tính vận tốc.
-- [ ] Tính quãng đường.
-- [ ] Tính thời gian di chuyển.
-- [ ] Tính BMI.
-- [ ] Tính chỉ số BMR.
-- [ ] Tính điểm trung bình học tập.
-- [ ] Tính tỷ lệ đậu/rớt.
-- [ ] Tính mật độ dân số.
-- [ ] Tính năng suất lao động.
-- [ ] Tính tỷ lệ tăng trưởng.
+- [x] Tính vận tốc.
+- [x] Tính quãng đường.
+- [x] Tính thời gian di chuyển.
+- [x] Tính BMI.
+- [x] Tính chỉ số BMR.
+- [x] Tính điểm trung bình học tập.
+- [x] Tính tỷ lệ đậu/rớt.
+- [x] Tính mật độ dân số.
+- [x] Tính năng suất lao động.
+- [x] Tính tỷ lệ tăng trưởng.
 
 ---
 
@@ -139,82 +139,82 @@
 
 ## A. Kiểm tra số (1-25)
 
-- [ ] Kiểm tra số chẵn.
-- [ ] Kiểm tra số lẻ.
-- [ ] Kiểm tra số dương.
-- [ ] Kiểm tra số âm.
-- [ ] Kiểm tra số bằng 0.
-- [ ] Kiểm tra số nguyên.
-- [ ] Kiểm tra số thực.
-- [ ] Kiểm tra bội số của 2.
-- [ ] Kiểm tra bội số của 3.
-- [ ] Kiểm tra bội số của 5.
-- [ ] Kiểm tra chia hết cho 2 và 3.
-- [ ] Kiểm tra chia hết cho 2 hoặc 3.
+- [x] Kiểm tra số chẵn.
+- [x] Kiểm tra số lẻ.
+- [x] Kiểm tra số dương.
+- [x] Kiểm tra số âm.
+- [x] Kiểm tra số bằng 0.
+- [x] Kiểm tra số nguyên.
+- [x] Kiểm tra số thực.
+- [x] Kiểm tra bội số của 2.
+- [x] Kiểm tra bội số của 3.
+- [x] Kiểm tra bội số của 5.
+- [x] Kiểm tra chia hết cho 2 và 3.
+- [x] Kiểm tra chia hết cho 2 hoặc 3.
 - [x] Kiểm tra số chính phương.
-- [ ] Kiểm tra số nguyên tố.
-- [ ] Kiểm tra số hoàn hảo.
-- [ ] Kiểm tra số Armstrong.
-- [ ] Kiểm tra số đối xứng.
-- [ ] Kiểm tra số tăng dần.
-- [ ] Kiểm tra số giảm dần.
-- [ ] Kiểm tra số có bao nhiêu chữ số.
-- [ ] Kiểm tra chữ số đầu.
-- [ ] Kiểm tra chữ số cuối.
-- [ ] So sánh hai số.
-- [ ] So sánh ba số.
-- [ ] So sánh n số.
+- [x] Kiểm tra số nguyên tố.
+- [x] Kiểm tra số hoàn hảo.
+- [x] Kiểm tra số Armstrong.
+- [x] Kiểm tra số đối xứng.
+- [x] Kiểm tra số tăng dần.
+- [x] Kiểm tra số giảm dần.
+- [x] Kiểm tra số có bao nhiêu chữ số.
+- [x] Kiểm tra chữ số đầu.
+- [x] Kiểm tra chữ số cuối.
+- [x] So sánh hai số.
+- [x] So sánh ba số.
+- [x] So sánh n số.
 
 ## B. Hình học (26-50)
 
-- [ ] Kiểm tra tam giác hợp lệ.
-- [ ] Tam giác đều.
-- [ ] Tam giác cân.
-- [ ] Tam giác vuông.
-- [ ] Tam giác vuông cân.
-- [ ] Tam giác thường.
-- [ ] Tứ giác hợp lệ.
-- [ ] Hình vuông.
-- [ ] Hình chữ nhật.
-- [ ] Hình thoi.
-- [ ] Hình bình hành.
-- [ ] Kiểm tra 3 cạnh tạo tam giác.
-- [ ] Kiểm tra điểm nằm trong hình chữ nhật.
-- [ ] Kiểm tra điểm nằm trong hình tròn.
-- [ ] Kiểm tra giao nhau của 2 đoạn thẳng.
-- [ ] Xác định góc nhọn.
-- [ ] Xác định góc vuông.
-- [ ] Xác định góc tù.
-- [ ] Kiểm tra đường thẳng song song.
-- [ ] Kiểm tra đường thẳng vuông góc.
-- [ ] Xác định loại đa giác.
-- [ ] So sánh diện tích.
-- [ ] So sánh chu vi.
-- [ ] Chọn hình lớn nhất.
-- [ ] Chọn hình nhỏ nhất.
+- [x] Kiểm tra tam giác hợp lệ.
+- [x] Tam giác đều.
+- [x] Tam giác cân.
+- [x] Tam giác vuông.
+- [x] Tam giác vuông cân.
+- [x] Tam giác thường.
+- [x] Tứ giác hợp lệ.
+- [x] Hình vuông.
+- [x] Hình chữ nhật.
+- [x] Hình thoi.
+- [x] Hình bình hành.
+- [x] Kiểm tra 3 cạnh tạo tam giác.
+- [x] Kiểm tra điểm nằm trong hình chữ nhật.
+- [x] Kiểm tra điểm nằm trong hình tròn.
+- [x] Kiểm tra giao nhau của 2 đoạn thẳng.
+- [x] Xác định góc nhọn.
+- [x] Xác định góc vuông.
+- [x] Xác định góc tù.
+- [x] Kiểm tra đường thẳng song song.
+- [x] Kiểm tra đường thẳng vuông góc.
+- [x] Xác định loại đa giác.
+- [x] So sánh diện tích.
+- [x] So sánh chu vi.
+- [x] Chọn hình lớn nhất.
+- [x] Chọn hình nhỏ nhất.
 
 ## C. Phương trình (51-70)
 
 - [x] Giải PT bậc nhất.
 - [x] Giải PT bậc hai.
-- [ ] Giải hệ PT bậc nhất 2 ẩn.
-- [ ] Giải PT chứa căn.
-- [ ] Giải PT tuyệt đối.
-- [ ] Giải bất phương trình bậc nhất.
-- [ ] Xét dấu tam thức.
-- [ ] Tính Delta.
-- [ ] Kiểm tra số nghiệm.
-- [ ] Chọn nghiệm lớn nhất.
-- [ ] Chọn nghiệm nhỏ nhất.
-- [ ] Giải PT mũ đơn giản.
-- [ ] Giải PT log đơn giản.
-- [ ] Giải PT lượng giác đơn giản.
-- [ ] Kiểm tra nghiệm thuộc tập xác định.
-- [ ] Giải PT phân thức.
-- [ ] Kiểm tra điều kiện nghiệm.
-- [ ] Tính tổng nghiệm.
-- [ ] Tính tích nghiệm.
-- [ ] So sánh nghiệm.
+- [x] Giải hệ PT bậc nhất 2 ẩn.
+- [x] Giải PT chứa căn.
+- [x] Giải PT tuyệt đối.
+- [x] Giải bất phương trình bậc nhất.
+- [x] Xét dấu tam thức.
+- [x] Tính Delta.
+- [x] Kiểm tra số nghiệm.
+- [x] Chọn nghiệm lớn nhất.
+- [x] Chọn nghiệm nhỏ nhất.
+- [x] Giải PT mũ đơn giản.
+- [x] Giải PT log đơn giản.
+- [x] Giải PT lượng giác đơn giản.
+- [x] Kiểm tra nghiệm thuộc tập xác định.
+- [x] Giải PT phân thức.
+- [x] Kiểm tra điều kiện nghiệm.
+- [x] Tính tổng nghiệm.
+- [x] Tính tích nghiệm.
+- [x] So sánh nghiệm.
 
 ## D. Thực tế (71-100)
 

@@ -16,8 +16,13 @@
 # - Ngược lại thì không phải.
 
 import math
+import sys
 
-n = int(input("Nhập số cần kiểm tra: "))
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8")
+
+du_lieu = input("Nhập số cần kiểm tra: ").strip().replace(chr(65279), "")
+n = int(du_lieu)
 
 if n < 0:
     print("Số âm không phải là số chính phương")
