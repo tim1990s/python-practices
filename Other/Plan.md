@@ -218,36 +218,36 @@
 
 ## D. Thực tế (71-100)
 
-- [ ] Xếp loại học lực.
-- [ ] Xếp loại sinh viên.
-- [ ] Tính tiền điện.
-- [ ] Tính tiền nước.
-- [ ] Tính tiền internet.
-- [ ] Tính thuế thu nhập.
-- [ ] Tính bảo hiểm.
-- [ ] Xác định tuổi lao động.
-- [ ] Kiểm tra đủ tuổi lái xe.
-- [ ] Kiểm tra đủ tuổi bầu cử.
-- [ ] Kiểm tra ngày hợp lệ.
-- [ ] Kiểm tra tháng hợp lệ.
-- [ ] Kiểm tra năm nhuận.
-- [ ] Kiểm tra giờ hợp lệ.
-- [ ] Chọn giá trị lớn nhất.
-- [ ] Chọn giá trị nhỏ nhất.
-- [ ] Tìm max trong 4 số.
-- [ ] Tìm min trong 4 số.
-- [ ] Tính thưởng nhân viên.
-- [ ] Tính hoa hồng.
-- [ ] Xác định ca làm việc.
-- [ ] Chọn mức lương.
-- [ ] Kiểm tra email hợp lệ.
-- [ ] Kiểm tra mật khẩu mạnh.
-- [ ] Kiểm tra số điện thoại.
-- [ ] Kiểm tra CCCD.
-- [ ] Kiểm tra mã số thuế.
-- [ ] Chọn gói dịch vụ.
-- [ ] Chọn phương thức vận chuyển.
-- [ ] Chọn loại khách hàng.
+- [x] Xếp loại học lực.
+- [x] Xếp loại sinh viên.
+- [x] Tính tiền điện.
+- [x] Tính tiền nước.
+- [x] Tính tiền internet.
+- [x] Tính thuế thu nhập.
+- [x] Tính bảo hiểm.
+- [x] Xác định tuổi lao động.
+- [x] Kiểm tra đủ tuổi lái xe.
+- [x] Kiểm tra đủ tuổi bầu cử.
+- [x] Kiểm tra ngày hợp lệ.
+- [x] Kiểm tra tháng hợp lệ.
+- [x] Kiểm tra năm nhuận.
+- [x] Kiểm tra giờ hợp lệ.
+- [x] Chọn giá trị lớn nhất.
+- [x] Chọn giá trị nhỏ nhất.
+- [x] Tìm max trong 4 số.
+- [x] Tìm min trong 4 số.
+- [x] Tính thưởng nhân viên.
+- [x] Tính hoa hồng.
+- [x] Xác định ca làm việc.
+- [x] Chọn mức lương.
+- [x] Kiểm tra email hợp lệ.
+- [x] Kiểm tra mật khẩu mạnh.
+- [x] Kiểm tra số điện thoại.
+- [x] Kiểm tra CCCD.
+- [x] Kiểm tra mã số thuế.
+- [x] Chọn gói dịch vụ.
+- [x] Chọn phương thức vận chuyển.
+- [x] Chọn loại khách hàng.
 
 ---
 
@@ -255,115 +255,115 @@
 
 ## A. Vòng lặp cơ bản (1-25)
 
-- [ ] In từ 1→N.
-- [ ] In N→1.
-- [ ] In số chẵn.
-- [ ] In số lẻ.
-- [ ] In bảng cửu chương.
-- [ ] In bình phương.
-- [ ] In lập phương.
-- [ ] In số chia hết cho 3.
-- [ ] In số chia hết cho 5.
-- [ ] In số nguyên tố.
-- [ ] In số chính phương.
-- [ ] In Fibonacci.
-- [ ] In số hoàn hảo.
-- [ ] In số Armstrong.
-- [ ] In ký tự A-Z.
-- [ ] In a-z.
-- [ ] In ASCII.
-- [ ] Đếm lên.
-- [ ] Đếm xuống.
-- [ ] In ngày trong tháng.
-- [ ] In năm nhuận.
-- [ ] In bội số.
-- [ ] In số ngẫu nhiên.
-- [ ] In mẫu sao.
-- [ ] In tam giác sao.
+- [x] In từ 1→N.
+- [x] In N→1.
+- [x] In số chẵn.
+- [x] In số lẻ.
+- [x] In bảng cửu chương.
+- [x] In bình phương.
+- [x] In lập phương.
+- [x] In số chia hết cho 3.
+- [x] In số chia hết cho 5.
+- [x] In số nguyên tố.
+- [x] In số chính phương.
+- [x] In Fibonacci.
+- [x] In số hoàn hảo.
+- [x] In số Armstrong.
+- [x] In ký tự A-Z.
+- [x] In a-z.
+- [x] In ASCII.
+- [x] Đếm lên.
+- [x] Đếm xuống.
+- [x] In ngày trong tháng.
+- [x] In năm nhuận.
+- [x] In bội số.
+- [x] In số ngẫu nhiên.
+- [x] In mẫu sao.
+- [x] In tam giác sao.
 
 ## B. Tính toán (26-50)
 
-- [ ] Tổng 1→N.
-- [ ] Tổng chẵn.
-- [ ] Tổng lẻ.
-- [ ] Tổng bình phương.
-- [ ] Tổng lập phương.
-- [ ] Giai thừa.
-- [ ] Lũy thừa.
-- [ ] Fibonacci thứ n.
-- [ ] Tổng Fibonacci.
-- [ ] Tính PI xấp xỉ.
-- [ ] Tổng nghịch đảo.
-- [ ] Tổng phân số.
-- [ ] Tổng dãy số.
-- [ ] Tính e.
-- [ ] Tính sin.
-- [ ] Tính cos.
-- [ ] Tính tan.
-- [ ] Tính log.
-- [ ] Tính trung bình.
-- [ ] Tìm max.
-- [ ] Tìm min.
-- [ ] Tính variance.
-- [ ] Tính độ lệch chuẩn.
-- [ ] Tính median.
-- [ ] Tính mode.
+- [x] Tổng 1→N.
+- [x] Tổng chẵn.
+- [x] Tổng lẻ.
+- [x] Tổng bình phương.
+- [x] Tổng lập phương.
+- [x] Giai thừa.
+- [x] Lũy thừa.
+- [x] Fibonacci thứ n.
+- [x] Tổng Fibonacci.
+- [x] Tính PI xấp xỉ.
+- [x] Tổng nghịch đảo.
+- [x] Tổng phân số.
+- [x] Tổng dãy số.
+- [x] Tính e.
+- [x] Tính sin.
+- [x] Tính cos.
+- [x] Tính tan.
+- [x] Tính log.
+- [x] Tính trung bình.
+- [x] Tìm max.
+- [x] Tìm min.
+- [x] Tính variance.
+- [x] Tính độ lệch chuẩn.
+- [x] Tính median.
+- [x] Tính mode.
 
 ## C. Chữ số (51-75)
 
-- [ ] Đếm chữ số.
-- [ ] Tổng chữ số.
-- [ ] Tích chữ số.
-- [ ] Đảo ngược số.
-- [ ] Kiểm tra palindrome.
-- [ ] Tách chữ số.
-- [ ] Tìm chữ số lớn nhất.
-- [ ] Tìm chữ số nhỏ nhất.
-- [ ] Đếm chữ số chẵn.
-- [ ] Đếm chữ số lẻ.
-- [ ] Kiểm tra tăng dần.
-- [ ] Kiểm tra giảm dần.
-- [ ] Đếm số 0.
-- [ ] Tìm chữ số đầu.
-- [ ] Tìm chữ số cuối.
-- [ ] Chuyển nhị phân.
-- [ ] Chuyển bát phân.
-- [ ] Chuyển thập lục phân.
-- [ ] Tính tổng nhị phân.
-- [ ] Đếm bit 1.
-- [ ] Đếm bit 0.
-- [ ] Tìm bit cao nhất.
-- [ ] Đảo bit.
-- [ ] Kiểm tra số nhị phân.
-- [ ] Chuyển đổi hệ cơ số.
+- [x] Đếm chữ số.
+- [x] Tổng chữ số.
+- [x] Tích chữ số.
+- [x] Đảo ngược số.
+- [x] Kiểm tra palindrome.
+- [x] Tách chữ số.
+- [x] Tìm chữ số lớn nhất.
+- [x] Tìm chữ số nhỏ nhất.
+- [x] Đếm chữ số chẵn.
+- [x] Đếm chữ số lẻ.
+- [x] Kiểm tra tăng dần.
+- [x] Kiểm tra giảm dần.
+- [x] Đếm số 0.
+- [x] Tìm chữ số đầu.
+- [x] Tìm chữ số cuối.
+- [x] Chuyển nhị phân.
+- [x] Chuyển bát phân.
+- [x] Chuyển thập lục phân.
+- [x] Tính tổng nhị phân.
+- [x] Đếm bit 1.
+- [x] Đếm bit 0.
+- [x] Tìm bit cao nhất.
+- [x] Đảo bit.
+- [x] Kiểm tra số nhị phân.
+- [x] Chuyển đổi hệ cơ số.
 
 ## D. Mẫu hình (76-100)
 
-- [ ] Hình vuông sao.
-- [ ] Tam giác vuông.
-- [ ] Tam giác cân.
-- [ ] Kim tự tháp.
-- [ ] Kim cương.
-- [ ] Chữ X.
-- [ ] Chữ Z.
-- [ ] Chữ N.
-- [ ] Bàn cờ.
-- [ ] Tam giác số.
-- [ ] Floyd triangle.
-- [ ] Pascal triangle.
-- [ ] Hollow square.
-- [ ] Hollow triangle.
-- [ ] Zigzag.
-- [ ] Sóng sin ký tự.
-- [ ] Mẫu Fibonacci.
-- [ ] Mẫu số nguyên tố.
-- [ ] Mẫu đối xứng.
-- [ ] Mẫu xoắn ốc.
-- [ ] Hình chữ nhật rỗng.
-- [ ] Tam giác rỗng.
-- [ ] Chữ A.
-- [ ] Chữ B.
-- [ ] Chữ C.
+- [x] Hình vuông sao.
+- [x] Tam giác vuông.
+- [x] Tam giác cân.
+- [x] Kim tự tháp.
+- [x] Kim cương.
+- [x] Chữ X.
+- [x] Chữ Z.
+- [x] Chữ N.
+- [x] Bàn cờ.
+- [x] Tam giác số.
+- [x] Floyd triangle.
+- [x] Pascal triangle.
+- [x] Hollow square.
+- [x] Hollow triangle.
+- [x] Zigzag.
+- [x] Sóng sin ký tự.
+- [x] Mẫu Fibonacci.
+- [x] Mẫu số nguyên tố.
+- [x] Mẫu đối xứng.
+- [x] Mẫu xoắn ốc.
+- [x] Hình chữ nhật rỗng.
+- [x] Tam giác rỗng.
+- [x] Chữ A.
+- [x] Chữ B.
+- [x] Chữ C.
 
 ---
 
