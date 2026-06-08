@@ -1,4 +1,32 @@
 # Chương trình kiểm tra nghiệm thuộc tập xác định của biểu thức sqrt(a*x + b) / (c*x + d)
+#
+# Người dùng sẽ nhập vào:
+# - Giá trị x.
+# - Hệ số a trong căn.
+# - Hệ số b trong căn.
+# - Hệ số c ở mẫu.
+# - Hệ số d ở mẫu.
+#
+# Ví dụ:
+# Nếu nhập:
+# giá trị x = 2
+# hệ số a trong căn = 1
+# hệ số b trong căn = 1
+# hệ số c ở mẫu = 1
+# hệ số d ở mẫu = -3
+# Kết quả là: chương trình kiểm tra nghiệm thuộc tập xác định của biểu thức sqrt(a*x + b) / (c*x + d) và in thông báo phù hợp.
+#
+# Lưu ý:
+# - x không thuộc tập xác định vì biểu thức trong căn âm.
+# - x không thuộc tập xác định vì mẫu bằng 0.
+#
+# Ý tưởng:
+# - Nhập các hệ số hoặc giá trị cần kiểm tra từ bàn phím.
+# - Kiểm tra các trường hợp đặc biệt và điều kiện xác định trước khi tính nghiệm.
+# - Kiểm tra điều kiện trong căn và điều kiện mẫu khác 0.
+# - Dùng câu lệnh if/elif/else để chọn nhánh xử lý đúng.
+# - Thực hiện yêu cầu: kiểm tra nghiệm thuộc tập xác định của biểu thức sqrt(a*x + b) / (c*x + d).
+# - In kết quả ra màn hình.
 
 import sys
 

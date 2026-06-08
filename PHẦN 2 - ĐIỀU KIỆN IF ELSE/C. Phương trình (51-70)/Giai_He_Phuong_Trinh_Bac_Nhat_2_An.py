@@ -1,4 +1,34 @@
 # Chương trình giải hệ phương trình bậc nhất 2 ẩn
+#
+# Người dùng sẽ nhập vào:
+# - A1.
+# - B1.
+# - C1.
+# - A2.
+# - B2.
+# - C2.
+#
+# Ví dụ:
+# Nếu nhập:
+# a1 = 1
+# b1 = 1
+# c1 = 3
+# a2 = 1
+# b2 = -1
+# c2 = 1
+# Kết quả là: chương trình giải hệ phương trình bậc nhất 2 ẩn rồi in nghiệm hoặc kết luận phù hợp.
+#
+# Lưu ý:
+# - Hệ phương trình có vô số nghiệm.
+# - Hệ phương trình vô nghiệm.
+#
+# Ý tưởng:
+# - Nhập các hệ số hoặc giá trị cần kiểm tra từ bàn phím.
+# - Kiểm tra các trường hợp đặc biệt và điều kiện xác định trước khi tính nghiệm.
+# - Tính các định thức và xét từng trường hợp nghiệm của hệ.
+# - Dùng câu lệnh if/elif/else để chọn nhánh xử lý đúng.
+# - Thực hiện yêu cầu: giải hệ phương trình bậc nhất 2 ẩn.
+# - In kết quả ra màn hình.
 
 import sys
 

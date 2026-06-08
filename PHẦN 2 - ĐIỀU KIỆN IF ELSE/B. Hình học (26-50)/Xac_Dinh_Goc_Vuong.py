@@ -1,4 +1,23 @@
 # Chương trình xác định góc vuông
+#
+# Người dùng sẽ nhập vào:
+# - Số đo góc.
+#
+# Ví dụ:
+# Nếu nhập:
+# số đo góc = 90
+# Kết quả là: chương trình xác định góc vuông và in thông báo phù hợp.
+#
+# Lưu ý:
+# - Đây không phải là góc vuông.
+#
+# Ý tưởng:
+# - Nhập các dữ liệu hình học cần kiểm tra từ bàn phím.
+# - Kiểm tra dữ liệu đầu vào trước khi xử lý chính.
+# - So sánh số đo góc với điều kiện của loại góc cần xác định.
+# - Dùng câu lệnh if/elif/else để chọn kết quả đúng.
+# - Thực hiện yêu cầu: xác định góc vuông.
+# - In kết quả ra màn hình.
 
 import sys
 

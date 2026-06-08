@@ -1,4 +1,25 @@
 # Chương trình in hình chữ nhật rỗng
+#
+# Người dùng sẽ nhập vào:
+# - Chiều dài.
+# - Chiều rộng.
+#
+# Ví dụ:
+# Nếu nhập:
+# chiều dài = 6
+# chiều rộng = 4
+# Kết quả là: chương trình in hình chữ nhật rỗng theo dữ liệu đã nhập.
+#
+# Lưu ý:
+# - Kích thước phải lớn hơn 0.
+# - Kích thước, chiều cao hoặc số dòng cần là số nguyên dương để in được mẫu hình.
+#
+# Ý tưởng:
+# - Nhập dữ liệu cần thiết từ bàn phím.
+# - Kiểm tra dữ liệu đầu vào trước khi xử lý chính.
+# - Dùng vòng lặp để xây từng dòng của mẫu hình.
+# - Thực hiện yêu cầu: in hình chữ nhật rỗng.
+# - In kết quả ra màn hình.
 
 import sys
 

@@ -1,4 +1,22 @@
 # Chương trình in dãy Fibonacci
+#
+# Người dùng sẽ nhập vào:
+# - Số lượng phần tử Fibonacci.
+#
+# Ví dụ:
+# Nếu nhập:
+# số lượng phần tử Fibonacci = 6
+# Kết quả là: chương trình in dãy Fibonacci theo dữ liệu đã nhập.
+#
+# Lưu ý:
+# - Số lượng phần tử phải lớn hơn 0.
+#
+# Ý tưởng:
+# - Nhập dữ liệu cần thiết từ bàn phím.
+# - Kiểm tra dữ liệu đầu vào trước khi xử lý chính.
+# - Cập nhật hai giá trị liên tiếp của dãy Fibonacci sau mỗi vòng lặp.
+# - Thực hiện yêu cầu: in dãy Fibonacci.
+# - In kết quả ra màn hình.
 
 import sys
 

@@ -1,4 +1,24 @@
 # Chương trình đếm lên
+#
+# Người dùng sẽ nhập vào:
+# - Số bắt đầu.
+# - Số kết thúc.
+#
+# Ví dụ:
+# Nếu nhập:
+# số bắt đầu = 1
+# số kết thúc = 5
+# Kết quả là: chương trình đếm lên rồi in số lượng đếm được.
+#
+# Lưu ý:
+# - Số bắt đầu phải nhỏ hơn hoặc bằng số kết thúc.
+#
+# Ý tưởng:
+# - Nhập dữ liệu cần thiết từ bàn phím.
+# - Kiểm tra dữ liệu đầu vào trước khi xử lý chính.
+# - Dùng vòng lặp while để lặp qua các giá trị cần xử lý.
+# - Thực hiện yêu cầu: đếm lên.
+# - In kết quả ra màn hình.
 
 import sys
 

@@ -1,4 +1,23 @@
 # Chương trình in chữ A
+#
+# Người dùng sẽ nhập vào:
+# - Chiều cao chữ A.
+#
+# Ví dụ:
+# Nếu nhập:
+# chiều cao chữ A = 5
+# Kết quả là: chương trình in chữ A theo dữ liệu đã nhập.
+#
+# Lưu ý:
+# - Chiều cao phải lớn hơn hoặc bằng 3.
+# - Kích thước, chiều cao hoặc số dòng cần là số nguyên dương để in được mẫu hình.
+#
+# Ý tưởng:
+# - Nhập dữ liệu cần thiết từ bàn phím.
+# - Kiểm tra dữ liệu đầu vào trước khi xử lý chính.
+# - Dùng vòng lặp để xây từng dòng của mẫu hình.
+# - Thực hiện yêu cầu: in chữ A.
+# - In kết quả ra màn hình.
 
 import sys
 

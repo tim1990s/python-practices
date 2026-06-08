@@ -1,4 +1,29 @@
 # Chương trình kiểm tra tam giác thường
+#
+# Người dùng sẽ nhập vào:
+# - Cạnh thứ nhất.
+# - Cạnh thứ hai.
+# - Cạnh thứ ba.
+#
+# Ví dụ:
+# Nếu nhập:
+# cạnh thứ nhất = 3
+# cạnh thứ hai = 4
+# cạnh thứ ba = 5
+# Kết quả là: chương trình kiểm tra tam giác thường và in thông báo phù hợp.
+#
+# Lưu ý:
+# - Ba cạnh phải lớn hơn 0.
+# - Ba cạnh không tạo thành tam giác.
+# - Đây không phải là tam giác thường.
+#
+# Ý tưởng:
+# - Nhập các dữ liệu hình học cần kiểm tra từ bàn phím.
+# - Kiểm tra dữ liệu đầu vào trước khi xử lý chính.
+# - Kiểm tra điều kiện tam giác rồi xét tiếp đặc điểm cạnh hoặc góc.
+# - Dùng câu lệnh if/elif/else để chọn kết quả đúng.
+# - Thực hiện yêu cầu: kiểm tra tam giác thường.
+# - In kết quả ra màn hình.
 
 import sys
 

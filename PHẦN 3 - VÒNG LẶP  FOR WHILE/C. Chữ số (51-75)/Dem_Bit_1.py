@@ -1,4 +1,23 @@
 # Chương trình đếm bit 1 trong biểu diễn nhị phân
+#
+# Người dùng sẽ nhập vào:
+# - Số nguyên không âm.
+#
+# Ví dụ:
+# Nếu nhập:
+# số nguyên không âm = 10
+# Kết quả là: chương trình đếm bit 1 trong biểu diễn nhị phân rồi in số lượng đếm được.
+#
+# Lưu ý:
+# - Số phải không âm.
+# - Chuỗi nhị phân hợp lệ chỉ gồm các ký tự 0 và 1.
+#
+# Ý tưởng:
+# - Nhập dữ liệu cần thiết từ bàn phím.
+# - Kiểm tra dữ liệu đầu vào trước khi xử lý chính.
+# - Dùng vòng lặp while để lặp qua các giá trị cần xử lý.
+# - Thực hiện yêu cầu: đếm bit 1 trong biểu diễn nhị phân.
+# - In kết quả ra màn hình.
 
 import sys
 

@@ -1,4 +1,23 @@
-# Chương trình in Pascal triangle
+# Chương trình in tam giác Pascal
+#
+# Người dùng sẽ nhập vào:
+# - Số dòng.
+#
+# Ví dụ:
+# Nếu nhập:
+# số dòng = 5
+# Kết quả là: chương trình in tam giác Pascal theo dữ liệu đã nhập.
+#
+# Lưu ý:
+# - Số dòng phải lớn hơn 0.
+# - Kích thước, chiều cao hoặc số dòng cần là số nguyên dương để in được mẫu hình.
+#
+# Ý tưởng:
+# - Nhập dữ liệu cần thiết từ bàn phím.
+# - Kiểm tra dữ liệu đầu vào trước khi xử lý chính.
+# - Dùng vòng lặp để xây từng dòng của mẫu hình.
+# - Thực hiện yêu cầu: in tam giác Pascal.
+# - In kết quả ra màn hình.
 
 import sys
 

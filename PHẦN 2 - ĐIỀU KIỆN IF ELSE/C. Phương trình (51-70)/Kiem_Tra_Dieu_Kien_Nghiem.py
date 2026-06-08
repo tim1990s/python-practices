@@ -1,4 +1,27 @@
 # Chương trình kiểm tra điều kiện nghiệm không làm mẫu bằng 0
+#
+# Người dùng sẽ nhập vào:
+# - Nghiệm cần kiểm tra.
+# - Hệ số a của mẫu.
+# - Hệ số b của mẫu.
+#
+# Ví dụ:
+# Nếu nhập:
+# nghiệm cần kiểm tra = 2
+# hệ số a của mẫu = 1
+# hệ số b của mẫu = -3
+# Kết quả là: chương trình kiểm tra điều kiện nghiệm không làm mẫu bằng 0 và in thông báo phù hợp.
+#
+# Lưu ý:
+# - Nghiệm không thỏa điều kiện vì làm mẫu bằng 0.
+#
+# Ý tưởng:
+# - Nhập các hệ số hoặc giá trị cần kiểm tra từ bàn phím.
+# - Kiểm tra các trường hợp đặc biệt và điều kiện xác định trước khi tính nghiệm.
+# - Thay nghiệm vào mẫu số để kiểm tra có làm mẫu bằng 0 hay không.
+# - Dùng câu lệnh if/elif/else để chọn nhánh xử lý đúng.
+# - Thực hiện yêu cầu: kiểm tra điều kiện nghiệm không làm mẫu bằng 0.
+# - In kết quả ra màn hình.
 
 import sys
 

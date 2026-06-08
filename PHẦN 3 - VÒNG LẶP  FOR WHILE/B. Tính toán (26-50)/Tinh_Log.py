@@ -1,4 +1,25 @@
 # Chương trình tính ln(x) xấp xỉ bằng chuỗi Taylor biến đổi
+#
+# Người dùng sẽ nhập vào:
+# - X dương.
+# - Số lượng số hạng.
+#
+# Ví dụ:
+# Nếu nhập:
+# x dương = 5
+# số lượng số hạng = 5
+# Kết quả là: chương trình tính ln(x) xấp xỉ bằng chuỗi Taylor biến đổi rồi in kết quả.
+#
+# Lưu ý:
+# - x và số lượng số hạng phải lớn hơn 0.
+# - Số lượng số hạng càng lớn thì kết quả xấp xỉ thường càng gần giá trị thật.
+#
+# Ý tưởng:
+# - Nhập dữ liệu cần thiết từ bàn phím.
+# - Kiểm tra dữ liệu đầu vào trước khi xử lý chính.
+# - Cộng dồn từng số hạng của công thức xấp xỉ bằng vòng lặp.
+# - Thực hiện yêu cầu: tính ln(x) xấp xỉ bằng chuỗi Taylor biến đổi.
+# - In kết quả ra màn hình.
 
 import sys
 

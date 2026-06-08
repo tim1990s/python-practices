@@ -1,4 +1,27 @@
 # Chương trình chọn hình nhỏ nhất theo diện tích
+#
+# Người dùng sẽ nhập vào:
+# - Diện tích hình thứ nhất.
+# - Diện tích hình thứ hai.
+# - Diện tích hình thứ ba.
+#
+# Ví dụ:
+# Nếu nhập:
+# diện tích hình thứ nhất = 12
+# diện tích hình thứ hai = 20
+# diện tích hình thứ ba = 15
+# Kết quả là: chương trình chọn hình nhỏ nhất theo diện tích rồi in hình được chọn.
+#
+# Lưu ý:
+# - Diện tích không được âm.
+#
+# Ý tưởng:
+# - Nhập các dữ liệu hình học cần kiểm tra từ bàn phím.
+# - Kiểm tra dữ liệu đầu vào trước khi xử lý chính.
+# - So sánh các giá trị diện tích để chọn hình phù hợp.
+# - Dùng câu lệnh if/elif/else để chọn kết quả đúng.
+# - Thực hiện yêu cầu: chọn hình nhỏ nhất theo diện tích.
+# - In kết quả ra màn hình.
 
 import sys
 

@@ -1,4 +1,24 @@
 # Chương trình tính lũy thừa bằng vòng lặp
+#
+# Người dùng sẽ nhập vào:
+# - Cơ số.
+# - Số mũ nguyên không âm.
+#
+# Ví dụ:
+# Nếu nhập:
+# cơ số = 2
+# số mũ nguyên không âm = 3
+# Kết quả là: chương trình tính lũy thừa bằng vòng lặp rồi in kết quả.
+#
+# Lưu ý:
+# - Số mũ phải không âm.
+#
+# Ý tưởng:
+# - Nhập dữ liệu cần thiết từ bàn phím.
+# - Kiểm tra dữ liệu đầu vào trước khi xử lý chính.
+# - Dùng vòng lặp for để lặp qua các giá trị cần xử lý.
+# - Thực hiện yêu cầu: tính lũy thừa bằng vòng lặp.
+# - In kết quả ra màn hình.
 
 import sys
 

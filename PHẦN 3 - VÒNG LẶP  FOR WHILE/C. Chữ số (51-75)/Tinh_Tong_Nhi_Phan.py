@@ -1,4 +1,25 @@
 # Chương trình tính tổng hai số nhị phân
+#
+# Người dùng sẽ nhập vào:
+# - Số nhị phân thứ nhất.
+# - Số nhị phân thứ hai.
+#
+# Ví dụ:
+# Nếu nhập:
+# số nhị phân thứ nhất = 1011
+# số nhị phân thứ hai = 101
+# Kết quả là: chương trình tính tổng hai số nhị phân rồi in kết quả.
+#
+# Lưu ý:
+# - Dữ liệu nhị phân không hợp lệ.
+# - Chuỗi nhị phân hợp lệ chỉ gồm các ký tự 0 và 1.
+#
+# Ý tưởng:
+# - Nhập dữ liệu cần thiết từ bàn phím.
+# - Kiểm tra dữ liệu đầu vào trước khi xử lý chính.
+# - Dùng vòng lặp for và while để lặp qua các giá trị cần xử lý.
+# - Thực hiện yêu cầu: tính tổng hai số nhị phân.
+# - In kết quả ra màn hình.
 
 import sys
 

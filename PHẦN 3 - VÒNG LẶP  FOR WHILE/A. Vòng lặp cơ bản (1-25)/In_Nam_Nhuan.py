@@ -1,4 +1,24 @@
 # Chương trình in các năm nhuận trong khoảng
+#
+# Người dùng sẽ nhập vào:
+# - Năm bắt đầu.
+# - Năm kết thúc.
+#
+# Ví dụ:
+# Nếu nhập:
+# năm bắt đầu = 2020
+# năm kết thúc = 2024
+# Kết quả là: chương trình in các năm nhuận trong khoảng theo dữ liệu đã nhập.
+#
+# Lưu ý:
+# - Khoảng năm không hợp lệ.
+#
+# Ý tưởng:
+# - Nhập dữ liệu cần thiết từ bàn phím.
+# - Kiểm tra dữ liệu đầu vào trước khi xử lý chính.
+# - Dùng phép chia lấy dư và chia nguyên để xử lý từng chữ số.
+# - Thực hiện yêu cầu: in các năm nhuận trong khoảng.
+# - In kết quả ra màn hình.
 
 import sys
 

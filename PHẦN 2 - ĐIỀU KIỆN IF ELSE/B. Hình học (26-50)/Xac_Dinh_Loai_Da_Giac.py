@@ -1,4 +1,23 @@
 # Chương trình xác định loại đa giác theo số cạnh
+#
+# Người dùng sẽ nhập vào:
+# - Số cạnh của đa giác.
+#
+# Ví dụ:
+# Nếu nhập:
+# số cạnh của đa giác = 5
+# Kết quả là: chương trình xác định loại đa giác theo số cạnh và in thông báo phù hợp.
+#
+# Lưu ý:
+# - Không phải là đa giác.
+#
+# Ý tưởng:
+# - Nhập các dữ liệu hình học cần kiểm tra từ bàn phím.
+# - Kiểm tra dữ liệu đầu vào trước khi xử lý chính.
+# - Dựa vào số cạnh để xác định loại đa giác.
+# - Dùng câu lệnh if/elif/else để chọn kết quả đúng.
+# - Thực hiện yêu cầu: xác định loại đa giác theo số cạnh.
+# - In kết quả ra màn hình.
 
 import sys
 

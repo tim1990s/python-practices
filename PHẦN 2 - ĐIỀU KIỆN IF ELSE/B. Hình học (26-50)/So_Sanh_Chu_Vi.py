@@ -1,4 +1,25 @@
 # Chương trình so sánh chu vi
+#
+# Người dùng sẽ nhập vào:
+# - Chu vi thứ nhất.
+# - Chu vi thứ hai.
+#
+# Ví dụ:
+# Nếu nhập:
+# chu vi thứ nhất = 14
+# chu vi thứ hai = 18
+# Kết quả là: chương trình so sánh chu vi rồi in kết luận so sánh.
+#
+# Lưu ý:
+# - Chu vi không được âm.
+#
+# Ý tưởng:
+# - Nhập các dữ liệu hình học cần kiểm tra từ bàn phím.
+# - Kiểm tra dữ liệu đầu vào trước khi xử lý chính.
+# - So sánh hai giá trị đã nhập để đưa ra kết luận.
+# - Dùng câu lệnh if/elif/else để chọn kết quả đúng.
+# - Thực hiện yêu cầu: so sánh chu vi.
+# - In kết quả ra màn hình.
 
 import sys
 

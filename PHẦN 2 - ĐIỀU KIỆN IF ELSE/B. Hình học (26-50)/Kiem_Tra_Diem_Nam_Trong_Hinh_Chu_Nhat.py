@@ -1,4 +1,33 @@
 # Chương trình kiểm tra điểm nằm trong hình chữ nhật
+#
+# Người dùng sẽ nhập vào:
+# - Hoành độ điểm.
+# - Tung độ điểm.
+# - X nhỏ nhất của hình chữ nhật.
+# - Y nhỏ nhất của hình chữ nhật.
+# - X lớn nhất của hình chữ nhật.
+# - Y lớn nhất của hình chữ nhật.
+#
+# Ví dụ:
+# Nếu nhập:
+# hoành độ điểm = 1
+# tung độ điểm = 1
+# x nhỏ nhất của hình chữ nhật = 0
+# y nhỏ nhất của hình chữ nhật = 0
+# x lớn nhất của hình chữ nhật = 5
+# y lớn nhất của hình chữ nhật = 4
+# Kết quả là: chương trình kiểm tra điểm nằm trong hình chữ nhật và in thông báo phù hợp.
+#
+# Lưu ý:
+# - Tọa độ hình chữ nhật không hợp lệ.
+#
+# Ý tưởng:
+# - Nhập các dữ liệu hình học cần kiểm tra từ bàn phím.
+# - Kiểm tra dữ liệu đầu vào trước khi xử lý chính.
+# - Kiểm tra tọa độ điểm có nằm trong giới hạn của hình chữ nhật hay không.
+# - Dùng câu lệnh if/elif/else để chọn kết quả đúng.
+# - Thực hiện yêu cầu: kiểm tra điểm nằm trong hình chữ nhật.
+# - In kết quả ra màn hình.
 
 import sys
 

@@ -1,4 +1,21 @@
 # Chương trình đếm chữ số lẻ
+#
+# Người dùng sẽ nhập vào:
+# - Số nguyên.
+#
+# Ví dụ:
+# Nếu nhập:
+# số nguyên = 12345
+# Kết quả là: chương trình đếm chữ số lẻ rồi in số lượng đếm được.
+#
+# Lưu ý:
+# - Nếu nhập số âm, chương trình xử lý phần trị tuyệt đối khi làm việc với chữ số.
+#
+# Ý tưởng:
+# - Nhập dữ liệu cần thiết từ bàn phím.
+# - Dùng phép chia lấy dư và chia nguyên để xử lý từng chữ số.
+# - Thực hiện yêu cầu: đếm chữ số lẻ.
+# - In kết quả ra màn hình.
 
 import sys
 

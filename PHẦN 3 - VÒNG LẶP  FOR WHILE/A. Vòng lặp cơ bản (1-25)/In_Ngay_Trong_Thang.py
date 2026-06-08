@@ -1,4 +1,24 @@
 # Chương trình in các ngày trong tháng
+#
+# Người dùng sẽ nhập vào:
+# - Tháng.
+# - Năm.
+#
+# Ví dụ:
+# Nếu nhập:
+# tháng = 2
+# năm = 2024
+# Kết quả là: chương trình in các ngày trong tháng theo dữ liệu đã nhập.
+#
+# Lưu ý:
+# - Tháng hoặc năm không hợp lệ.
+#
+# Ý tưởng:
+# - Nhập dữ liệu cần thiết từ bàn phím.
+# - Kiểm tra dữ liệu đầu vào trước khi xử lý chính.
+# - Dùng phép chia lấy dư và chia nguyên để xử lý từng chữ số.
+# - Thực hiện yêu cầu: in các ngày trong tháng.
+# - In kết quả ra màn hình.
 
 import sys
 

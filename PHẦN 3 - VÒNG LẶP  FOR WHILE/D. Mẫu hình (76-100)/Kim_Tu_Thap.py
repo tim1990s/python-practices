@@ -1,4 +1,23 @@
 # Chương trình in kim tự tháp sao
+#
+# Người dùng sẽ nhập vào:
+# - Chiều cao.
+#
+# Ví dụ:
+# Nếu nhập:
+# chiều cao = 5
+# Kết quả là: chương trình in kim tự tháp sao theo dữ liệu đã nhập.
+#
+# Lưu ý:
+# - Chiều cao phải lớn hơn 0.
+# - Kích thước, chiều cao hoặc số dòng cần là số nguyên dương để in được mẫu hình.
+#
+# Ý tưởng:
+# - Nhập dữ liệu cần thiết từ bàn phím.
+# - Kiểm tra dữ liệu đầu vào trước khi xử lý chính.
+# - Dùng vòng lặp để xây từng dòng của mẫu hình.
+# - Thực hiện yêu cầu: in kim tự tháp sao.
+# - In kết quả ra màn hình.
 
 import sys
 

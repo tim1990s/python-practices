@@ -1,4 +1,38 @@
 # Chương trình kiểm tra hình chữ nhật
+#
+# Người dùng sẽ nhập vào:
+# - Cạnh thứ nhất.
+# - Cạnh thứ hai.
+# - Cạnh thứ ba.
+# - Cạnh thứ tư.
+# - Góc thứ nhất.
+# - Góc thứ hai.
+# - Góc thứ ba.
+# - Góc thứ tư.
+#
+# Ví dụ:
+# Nếu nhập:
+# cạnh thứ nhất = 3
+# cạnh thứ hai = 4
+# cạnh thứ ba = 5
+# cạnh thứ tư = 4
+# góc thứ nhất = 90
+# góc thứ hai = 90
+# góc thứ ba = 90
+# góc thứ tư = 90
+# Kết quả là: chương trình kiểm tra hình chữ nhật và in thông báo phù hợp.
+#
+# Lưu ý:
+# - Bốn cạnh phải lớn hơn 0.
+# - Đây không phải là hình chữ nhật.
+#
+# Ý tưởng:
+# - Nhập các dữ liệu hình học cần kiểm tra từ bàn phím.
+# - Kiểm tra dữ liệu đầu vào trước khi xử lý chính.
+# - Kiểm tra các điều kiện cạnh và góc đặc trưng của hình.
+# - Dùng câu lệnh if/elif/else để chọn kết quả đúng.
+# - Thực hiện yêu cầu: kiểm tra hình chữ nhật.
+# - In kết quả ra màn hình.
 
 import sys
 

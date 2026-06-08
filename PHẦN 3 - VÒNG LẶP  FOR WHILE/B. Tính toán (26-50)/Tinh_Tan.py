@@ -1,4 +1,26 @@
 # Chương trình tính tan(x) xấp xỉ từ sin(x) và cos(x)
+#
+# Người dùng sẽ nhập vào:
+# - X theo radian.
+# - Số lượng số hạng.
+#
+# Ví dụ:
+# Nếu nhập:
+# x theo radian = 1
+# số lượng số hạng = 5
+# Kết quả là: chương trình tính tan(x) xấp xỉ từ sin(x) và cos(x) rồi in kết quả.
+#
+# Lưu ý:
+# - Số lượng số hạng phải lớn hơn 0.
+# - Không tính được tan(x) vì cos(x) bằng 0.
+# - Số lượng số hạng càng lớn thì kết quả xấp xỉ thường càng gần giá trị thật.
+#
+# Ý tưởng:
+# - Nhập dữ liệu cần thiết từ bàn phím.
+# - Kiểm tra dữ liệu đầu vào trước khi xử lý chính.
+# - Cộng dồn từng số hạng của công thức xấp xỉ bằng vòng lặp.
+# - Thực hiện yêu cầu: tính tan(x) xấp xỉ từ sin(x) và cos(x).
+# - In kết quả ra màn hình.
 
 import sys
 

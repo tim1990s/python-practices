@@ -1,4 +1,26 @@
 # Chương trình chuyển đổi hệ cơ số từ 2 đến 16
+#
+# Người dùng sẽ nhập vào:
+# - Số cần chuyển.
+# - Hệ cơ số nguồn (2-16).
+# - Hệ cơ số đích (2-16).
+#
+# Ví dụ:
+# Nếu nhập:
+# số cần chuyển = 1010
+# hệ cơ số nguồn (2-16) = 2
+# hệ cơ số đích (2-16) = 10
+# Kết quả là: chương trình chuyển đổi hệ cơ số từ 2 đến 16 rồi in dạng sau khi chuyển.
+#
+# Lưu ý:
+# - Dữ liệu không hợp lệ.
+#
+# Ý tưởng:
+# - Nhập dữ liệu cần thiết từ bàn phím.
+# - Kiểm tra dữ liệu đầu vào trước khi xử lý chính.
+# - Dùng vòng lặp for và while để lặp qua các giá trị cần xử lý.
+# - Thực hiện yêu cầu: chuyển đổi hệ cơ số từ 2 đến 16.
+# - In kết quả ra màn hình.
 
 import sys
 

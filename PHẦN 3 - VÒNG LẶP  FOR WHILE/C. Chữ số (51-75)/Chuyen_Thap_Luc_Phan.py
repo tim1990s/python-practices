@@ -1,4 +1,22 @@
 # Chương trình chuyển số thập phân sang thập lục phân
+#
+# Người dùng sẽ nhập vào:
+# - Số nguyên không âm.
+#
+# Ví dụ:
+# Nếu nhập:
+# số nguyên không âm = 10
+# Kết quả là: chương trình chuyển số thập phân sang thập lục phân rồi in dạng sau khi chuyển.
+#
+# Lưu ý:
+# - Số phải không âm.
+#
+# Ý tưởng:
+# - Nhập dữ liệu cần thiết từ bàn phím.
+# - Kiểm tra dữ liệu đầu vào trước khi xử lý chính.
+# - Dùng vòng lặp while để lặp qua các giá trị cần xử lý.
+# - Thực hiện yêu cầu: chuyển số thập phân sang thập lục phân.
+# - In kết quả ra màn hình.
 
 import sys
 

@@ -1,4 +1,36 @@
 # Chương trình kiểm tra giao nhau của 2 đoạn thẳng
+#
+# Người dùng sẽ nhập vào:
+# - X1.
+# - Y1.
+# - X2.
+# - Y2.
+# - X3.
+# - Y3.
+# - X4.
+# - Y4.
+#
+# Ví dụ:
+# Nếu nhập:
+# x1 = 0
+# y1 = 0
+# x2 = 4
+# y2 = 4
+# x3 = 0
+# y3 = 4
+# x4 = 4
+# y4 = 0
+# Kết quả là: chương trình kiểm tra giao nhau của 2 đoạn thẳng và in thông báo phù hợp.
+#
+# Lưu ý:
+# - Mỗi đoạn thẳng được xác định bởi hai điểm đầu mút.
+#
+# Ý tưởng:
+# - Nhập các dữ liệu hình học cần kiểm tra từ bàn phím.
+# - Dùng điều kiện định hướng điểm để kiểm tra hai đoạn thẳng có giao nhau hay không.
+# - Dùng câu lệnh if/elif/else để chọn kết quả đúng.
+# - Thực hiện yêu cầu: kiểm tra giao nhau của 2 đoạn thẳng.
+# - In kết quả ra màn hình.
 
 import sys
 

@@ -1,4 +1,20 @@
 # Chương trình in ký tự a-z
+#
+# Người dùng sẽ nhập vào:
+# - Không cần nhập dữ liệu từ bàn phím.
+#
+# Ví dụ:
+# Chạy chương trình trực tiếp, không cần nhập dữ liệu.
+# Kết quả là: chương trình in ký tự a-z ra màn hình.
+#
+# Lưu ý:
+# - Dữ liệu nhập cần đúng kiểu theo yêu cầu của từng dòng input.
+#
+# Ý tưởng:
+# - Xác định sẵn khoảng giá trị cần duyệt trong chương trình.
+# - Dùng vòng lặp for để lặp qua các giá trị cần xử lý.
+# - Thực hiện yêu cầu: in ký tự a-z.
+# - In kết quả ra màn hình.
 
 import sys
 

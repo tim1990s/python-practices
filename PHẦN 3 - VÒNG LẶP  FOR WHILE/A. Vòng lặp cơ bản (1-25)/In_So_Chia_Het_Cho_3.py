@@ -1,4 +1,22 @@
 # Chương trình in các số chia hết cho 3 từ 1 đến N
+#
+# Người dùng sẽ nhập vào:
+# - Giá trị N.
+#
+# Ví dụ:
+# Nếu nhập:
+# N = 5
+# Kết quả là: chương trình in các số chia hết cho 3 từ 1 đến N theo dữ liệu đã nhập.
+#
+# Lưu ý:
+# - N phải lớn hơn hoặc bằng 1.
+#
+# Ý tưởng:
+# - Nhập dữ liệu cần thiết từ bàn phím.
+# - Kiểm tra dữ liệu đầu vào trước khi xử lý chính.
+# - Dùng vòng lặp for để lặp qua các giá trị cần xử lý.
+# - Thực hiện yêu cầu: in các số chia hết cho 3 từ 1 đến N.
+# - In kết quả ra màn hình.
 
 import sys
 

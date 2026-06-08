@@ -1,4 +1,22 @@
 # Chương trình tính tổng phân số 1/2 + 2/3 + ... + N/(N+1)
+#
+# Người dùng sẽ nhập vào:
+# - Giá trị N.
+#
+# Ví dụ:
+# Nếu nhập:
+# N = 5
+# Kết quả là: chương trình tính tổng phân số 1/2 + 2/3 + ... + N/(N+1) rồi in kết quả.
+#
+# Lưu ý:
+# - N phải lớn hơn 0.
+#
+# Ý tưởng:
+# - Nhập dữ liệu cần thiết từ bàn phím.
+# - Kiểm tra dữ liệu đầu vào trước khi xử lý chính.
+# - Dùng vòng lặp for để lặp qua các giá trị cần xử lý.
+# - Thực hiện yêu cầu: tính tổng phân số 1/2 + 2/3 + ... + N/(N+1).
+# - In kết quả ra màn hình.
 
 import sys
 
