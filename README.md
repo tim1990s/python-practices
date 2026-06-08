@@ -48,7 +48,7 @@ Python Practices/
 | Phần 1 | Nhóm E - Thời gian và tuổi tác | Hoàn thành |
 | Phần 1 | Nhóm F - Công thức ứng dụng | Chưa hoàn thành |
 
-Chi tiết đầy đủ nằm trong [Plan.txt](Other/Plan.md).
+Chi tiết đầy đủ nằm trong [Plan.txt](CheckList.md).
 
 ## Cách Chạy Bài Tập
 

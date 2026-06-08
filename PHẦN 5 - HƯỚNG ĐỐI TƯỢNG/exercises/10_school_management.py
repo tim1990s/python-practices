@@ -1,7 +1,7 @@
 """Bai 10: Mini project quan ly truong hoc.
 
 Muc tieu:
-- Tong hop OOP
+- Tong hop PHẦN 5 - HƯỚNG ĐỐI TƯỢNG
 - Inheritance
 - Composition
 - Encapsulation

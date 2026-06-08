@@ -122,7 +122,7 @@ print(r.perimeter())  # 18
 
 ```python
 library = Library()
-library.add_book(Book("Python OOP", "Author A", "001"))
+library.add_book(Book("Python PHẦN 5 - HƯỚNG ĐỐI TƯỢNG", "Author A", "001"))
 library.borrow_book("001")
 ```
 

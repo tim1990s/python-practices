@@ -1,4 +1,4 @@
-"""Cac vi du tong hop ve OOP trong Python.
+"""Cac vi du tong hop ve PHẦN 5 - HƯỚNG ĐỐI TƯỢNG trong Python.
 
 Chay file:
     python examples/oop_examples.py
