@@ -487,55 +487,115 @@
 
 ## Nhóm 1 - CRUD trên List (1-25)
 
-- [ ] Thêm.
-- [ ] Xóa.
-- [ ] Sửa.
-- [ ] Tìm kiếm.
-- [ ] Sắp xếp.
-- [ ] Loại trùng.
-- [ ] Reverse.
-- [ ] Slice.
-- [ ] Merge.
-- [ ] Split.
+- [x] Thêm phần tử vào cuối list.
+- [x] Thêm phần tử vào đầu list.
+- [x] Thêm phần tử tại vị trí bất kỳ.
+- [x] Thêm nhiều phần tử vào list.
+- [x] Xóa phần tử theo giá trị.
+- [x] Xóa phần tử theo vị trí.
+- [x] Xóa phần tử cuối list.
+- [x] Xóa toàn bộ phần tử trong list.
+- [x] Sửa phần tử theo vị trí.
+- [x] Sửa phần tử theo giá trị.
+- [x] Tìm kiếm phần tử trong list.
+- [x] Tìm vị trí đầu tiên của phần tử.
+- [x] Tìm tất cả vị trí của phần tử.
+- [x] Sắp xếp list tăng dần.
+- [x] Sắp xếp list giảm dần.
+- [x] Sắp xếp list chuỗi theo độ dài.
+- [x] Loại bỏ phần tử trùng lặp và giữ thứ tự.
+- [x] Đếm số lần xuất hiện của phần tử.
+- [x] Đảo ngược list.
+- [x] Lấy một đoạn list bằng slice.
+- [x] Cập nhật một đoạn list bằng slice.
+- [x] Ghép hai list.
+- [x] Chèn một list vào vị trí bất kỳ.
+- [x] Tách list theo kích thước nhóm.
+- [x] Tách list số chẵn và số lẻ.
 
 ## Nhóm 2 - Thống kê (26-50)
 
-- [ ] Max.
-- [ ] Min.
-- [ ] Average.
-- [ ] Median.
-- [ ] Mode.
-- [ ] Variance.
-- [ ] Std Dev.
-- [ ] Percentile.
-- [ ] Histogram.
-- [ ] Frequency.
+- [x] Tìm giá trị lớn nhất trong list.
+- [x] Tìm giá trị nhỏ nhất trong list.
+- [x] Tính tổng các phần tử trong list.
+- [x] Tính giá trị trung bình.
+- [x] Tính trung vị.
+- [x] Tính mode.
+- [x] Tính khoảng biến thiên.
+- [x] Tính phương sai.
+- [x] Tính độ lệch chuẩn.
+- [x] Tính percentile.
+- [x] Tạo histogram đơn giản.
+- [x] Thống kê tần suất phần tử.
+- [x] Đếm số phần tử trong list.
+- [x] Đếm số dương, âm và bằng 0.
+- [x] Tính tổng số chẵn và số lẻ.
+- [x] Tính trung bình số chẵn và số lẻ.
+- [x] Tìm giá trị lớn thứ hai.
+- [x] Tìm giá trị nhỏ thứ hai.
+- [x] Tìm top k giá trị lớn nhất.
+- [x] Tìm top k giá trị nhỏ nhất.
+- [x] Chuẩn hóa min-max.
+- [x] Tính Q1, Q3 và IQR.
+- [x] Phát hiện outlier bằng IQR.
+- [x] Tính tổng tích lũy.
+- [x] Tính trung bình trượt.
 
 ## Nhóm 3 - Thuật toán (51-75)
 
-- [ ] Bubble Sort.
-- [ ] Selection Sort.
-- [ ] Insertion Sort.
-- [ ] Merge Sort.
-- [ ] Quick Sort.
-- [ ] Binary Search.
-- [ ] Linear Search.
-- [ ] Heap Sort.
-- [ ] Counting Sort.
-- [ ] Radix Sort.
+- [x] Bubble Sort.
+- [x] Selection Sort.
+- [x] Insertion Sort.
+- [x] Merge Sort.
+- [x] Quick Sort.
+- [x] Binary Search.
+- [x] Linear Search.
+- [x] Heap Sort.
+- [x] Counting Sort.
+- [x] Radix Sort.
+- [x] Jump Search.
+- [x] Interpolation Search.
+- [x] Exponential Search.
+- [x] Shell Sort.
+- [x] Cocktail Sort.
+- [x] Comb Sort.
+- [x] Bucket Sort.
+- [x] Tìm cặp có tổng bằng k.
+- [x] Tính prefix sum.
+- [x] Xoay list sang phải k bước.
+- [x] Trộn hai list đã sắp xếp.
+- [x] Tìm dãy con liên tiếp có tổng lớn nhất.
+- [x] Tìm phần tử đa số.
+- [x] Kiểm tra list đã sắp xếp.
+- [x] Phân hoạch số chẵn và số lẻ.
 
 ## Nhóm 4 - Bài toán thực tế (76-100)
 
-- [ ] Quản lý sinh viên.
-- [ ] Quản lý nhân viên.
-- [ ] Quản lý kho.
-- [ ] Giỏ hàng.
-- [ ] Danh bạ.
-- [ ] To-do list.
-- [ ] Quản lý sách.
-- [ ] Quản lý lớp học.
-- [ ] Chấm điểm.
-- [ ] Bảng lương.
+- [x] Quản lý sinh viên.
+- [x] Quản lý nhân viên.
+- [x] Quản lý kho.
+- [x] Giỏ hàng.
+- [x] Danh bạ.
+- [x] To-do list.
+- [x] Quản lý sách.
+- [x] Quản lý lớp học.
+- [x] Chấm điểm.
+- [x] Bảng lương.
+- [x] Quản lý điểm danh.
+- [x] Quản lý chi tiêu cá nhân.
+- [x] Quản lý đơn hàng.
+- [x] Quản lý đặt vé.
+- [x] Quản lý lịch hẹn.
+- [x] Quản lý công việc dự án.
+- [x] Tìm sản phẩm bán chạy.
+- [x] Quản lý mã giảm giá.
+- [x] Quản lý tài khoản ngân hàng.
+- [x] Quản lý môn học.
+- [x] Quản lý bệnh nhân.
+- [x] Quản lý phòng khách sạn.
+- [x] Quản lý mượn trả thư viện.
+- [x] Quản lý bài đăng.
+- [x] Quản lý kết quả thi.
 
 ---
 
@@ -543,64 +603,113 @@
 
 ## Nhóm 1 - Hàm cơ bản (1-25)
 
-- [ ] Hàm cộng.
-- [ ] Hàm trừ.
-- [ ] Hàm nhân.
-- [ ] Hàm chia.
-- [ ] Hàm tính bình phương.
-- [ ] Hàm tính căn.
-- [ ] Hàm tính max.
-- [ ] Hàm tính min.
-- [ ] Hàm kiểm tra chẵn.
-- [ ] Hàm kiểm tra lẻ.
-- [ ] Hàm giải PT bậc hai.
+- [x] Hàm cộng.
+- [x] Hàm trừ.
+- [x] Hàm nhân.
+- [x] Hàm chia.
+- [x] Hàm tính bình phương.
+- [x] Hàm tính căn bậc hai.
+- [x] Hàm tính max.
+- [x] Hàm tính min.
+- [x] Hàm kiểm tra chẵn.
+- [x] Hàm kiểm tra lẻ.
+- [x] Hàm giải PT bậc hai.
+- [x] Hàm tính lũy thừa.
+- [x] Hàm tính giá trị tuyệt đối.
+- [x] Hàm tính trung bình.
+- [x] Hàm đổi độ C sang độ F.
+- [x] Hàm đổi độ F sang độ C.
+- [x] Hàm tính diện tích hình tròn.
+- [x] Hàm tính chu vi hình tròn.
+- [x] Hàm tính diện tích hình chữ nhật.
+- [x] Hàm tính chu vi hình chữ nhật.
+- [x] Hàm tính BMI.
+- [x] Hàm tính giá sau giảm.
+- [x] Hàm kiểm tra năm nhuận.
+- [x] Hàm đổi giây sang giờ phút giây.
+- [x] Hàm hoán đổi hai giá trị.
 
 ## Nhóm 2 - Hàm xử lý số (26-50)
 
-- [ ] Hàm nguyên tố.
-- [ ] Hàm chính phương.
-- [ ] Hàm Fibonacci.
-- [ ] Hàm giai thừa.
-- [ ] Hàm UCLN.
-- [ ] Hàm BCNN.
-- [ ] Hàm thống kê số.
+- [x] Hàm nguyên tố.
+- [x] Hàm chính phương.
+- [x] Hàm Fibonacci.
+- [x] Hàm giai thừa.
+- [x] Hàm UCLN.
+- [x] Hàm BCNN.
+- [x] Hàm thống kê số.
+- [x] Hàm tính tổng chữ số.
+- [x] Hàm tính tích chữ số.
+- [x] Hàm đảo ngược số.
+- [x] Hàm kiểm tra số palindrome.
+- [x] Hàm đếm chữ số.
+- [x] Hàm tìm chữ số lớn nhất.
+- [x] Hàm tìm chữ số nhỏ nhất.
+- [x] Hàm phân tích thừa số nguyên tố.
+- [x] Hàm liệt kê ước số.
+- [x] Hàm tính tổng ước số.
+- [x] Hàm kiểm tra số hoàn hảo.
+- [x] Hàm kiểm tra Armstrong.
+- [x] Hàm chuyển sang nhị phân.
+- [x] Hàm chuyển sang bát phân.
+- [x] Hàm chuyển sang thập lục phân.
+- [x] Hàm tìm ước chung của hai số.
+- [x] Hàm tính BCNN của list.
+- [x] Hàm tìm số nguyên tố trong khoảng.
 
 ## Nhóm 3 - Hàm xử lý chuỗi (51-75)
 
-- [ ] Hàm đảo chuỗi.
-- [ ] Hàm palindrome.
-- [ ] Hàm đếm từ.
-- [ ] Hàm chuẩn hóa tên.
-- [ ] Hàm validate email.
-- [ ] Hàm parser.
+- [x] Hàm đảo chuỗi.
+- [x] Hàm palindrome.
+- [x] Hàm đếm từ.
+- [x] Hàm chuẩn hóa tên.
+- [x] Hàm validate email.
+- [x] Hàm parser key-value.
+- [x] Hàm đếm ký tự.
+- [x] Hàm đếm nguyên âm.
+- [x] Hàm đếm phụ âm.
+- [x] Hàm viết hoa chữ đầu.
+- [x] Hàm xóa khoảng trắng thừa.
+- [x] Hàm tách từ.
+- [x] Hàm nối chuỗi.
+- [x] Hàm thay thế chuỗi.
+- [x] Hàm tìm kiếm từ khóa.
+- [x] Hàm tần suất từ.
+- [x] Hàm tạo slug.
+- [x] Hàm validate số điện thoại.
+- [x] Hàm trích xuất email.
+- [x] Hàm trích xuất URL.
+- [x] Hàm mã hóa Caesar.
+- [x] Hàm giải mã Caesar.
+- [x] Hàm cắt chuỗi.
+- [x] Hàm kiểm tra anagram.
+- [x] Hàm so sánh không phân biệt hoa thường.
 
 ## Nhóm 4 - Hàm nâng cao (76-100)
 
-- [ ] Recursive Fibonacci.
-- [ ] Recursive Factorial.
-- [ ] Recursive Binary Search.
-- [ ] Recursive DFS.
-- [ ] Recursive Tree Traversal.
-- [ ] Decorator.
-- [ ] Closure.
-- [ ] Lambda.
-- [ ] Higher Order Function.
-- [ ] Memoization.
-- [ ] Generator.
-- [ ] Iterator.
-- [ ] Context Manager.
-- [ ] Callback.
-- [ ] Event Handler.
-- [ ] Plugin Function.
-- [ ] Dependency Injection đơn giản.
-- [ ] Command Pattern.
-- [ ] Strategy Pattern.
-- [ ] Observer Pattern.
-- [ ] Function Composition.
-- [ ] Async Function.
-- [ ] Coroutine.
-- [ ] Retry Decorator.
-- [ ] Cache Decorator.
-
-
+- [x] Recursive Fibonacci.
+- [x] Recursive Factorial.
+- [x] Recursive Binary Search.
+- [x] Recursive DFS.
+- [x] Recursive Tree Traversal.
+- [x] Decorator.
+- [x] Closure.
+- [x] Lambda.
+- [x] Higher Order Function.
+- [x] Memoization.
+- [x] Generator.
+- [x] Iterator.
+- [x] Context Manager.
+- [x] Callback.
+- [x] Event Handler.
+- [x] Plugin Function.
+- [x] Dependency Injection đơn giản.
+- [x] Command Pattern.
+- [x] Strategy Pattern.
+- [x] Observer Pattern.
+- [x] Function Composition.
+- [x] Async Function.
+- [x] Coroutine.
+- [x] Retry Decorator.
+- [x] Cache Decorator.
 
