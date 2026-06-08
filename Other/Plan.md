@@ -371,115 +371,115 @@
 
 ## A. Cơ bản (1-25)
 
-- [ ] Đếm ký tự.
-- [ ] Đếm từ.
-- [ ] Đếm câu.
-- [ ] In hoa.
-- [ ] In thường.
-- [ ] Capitalize.
-- [ ] Đảo chuỗi.
-- [ ] Palindrome.
-- [ ] So sánh chuỗi.
-- [ ] Ghép chuỗi.
-- [ ] Tách chuỗi.
-- [ ] Trim.
-- [ ] Lấy ký tự đầu.
-- [ ] Lấy ký tự cuối.
-- [ ] Lấy ký tự giữa.
-- [ ] Cắt chuỗi.
-- [ ] Thay thế.
-- [ ] Xóa khoảng trắng.
-- [ ] Chuẩn hóa.
-- [ ] Mã hóa Caesar.
-- [ ] Giải mã Caesar.
-- [ ] Mã hóa ROT13.
-- [ ] Kiểm tra rỗng.
-- [ ] Tìm kiếm.
-- [ ] So khớp.
+- [x] Đếm ký tự.
+- [x] Đếm từ.
+- [x] Đếm câu.
+- [x] In hoa.
+- [x] In thường.
+- [x] Capitalize.
+- [x] Đảo chuỗi.
+- [x] Palindrome.
+- [x] So sánh chuỗi.
+- [x] Ghép chuỗi.
+- [x] Tách chuỗi.
+- [x] Trim.
+- [x] Lấy ký tự đầu.
+- [x] Lấy ký tự cuối.
+- [x] Lấy ký tự giữa.
+- [x] Cắt chuỗi.
+- [x] Thay thế.
+- [x] Xóa khoảng trắng.
+- [x] Chuẩn hóa.
+- [x] Mã hóa Caesar.
+- [x] Giải mã Caesar.
+- [x] Mã hóa ROT13.
+- [x] Kiểm tra rỗng.
+- [x] Tìm kiếm.
+- [x] So khớp.
 
 ## B. Phân tích văn bản (26-50)
 
-- [ ] Đếm nguyên âm.
-- [ ] Đếm phụ âm.
-- [ ] Đếm số.
-- [ ] Đếm ký tự đặc biệt.
-- [ ] Từ dài nhất.
-- [ ] Từ ngắn nhất.
-- [ ] Từ xuất hiện nhiều nhất.
-- [ ] Tần suất ký tự.
-- [ ] Tần suất từ.
-- [ ] Top 10 từ.
-- [ ] Loại bỏ stopwords.
-- [ ] Tách câu.
-- [ ] Tách đoạn.
-- [ ] Tokenize.
-- [ ] N-gram.
-- [ ] Đếm hashtag.
-- [ ] Đếm mention.
-- [ ] Đếm URL.
-- [ ] Trích xuất email.
-- [ ] Trích xuất số điện thoại.
-- [ ] Trích xuất ngày tháng.
-- [ ] Trích xuất tiền tệ.
-- [ ] Trích xuất địa chỉ IP.
-- [ ] Kiểm tra Unicode.
-- [ ] Chuẩn hóa Unicode.
+- [x] Đếm nguyên âm.
+- [x] Đếm phụ âm.
+- [x] Đếm số.
+- [x] Đếm ký tự đặc biệt.
+- [x] Từ dài nhất.
+- [x] Từ ngắn nhất.
+- [x] Từ xuất hiện nhiều nhất.
+- [x] Tần suất ký tự.
+- [x] Tần suất từ.
+- [x] Top 10 từ.
+- [x] Loại bỏ stopwords.
+- [x] Tách câu.
+- [x] Tách đoạn.
+- [x] Tokenize.
+- [x] N-gram.
+- [x] Đếm hashtag.
+- [x] Đếm mention.
+- [x] Đếm URL.
+- [x] Trích xuất email.
+- [x] Trích xuất số điện thoại.
+- [x] Trích xuất ngày tháng.
+- [x] Trích xuất tiền tệ.
+- [x] Trích xuất địa chỉ IP.
+- [x] Kiểm tra Unicode.
+- [x] Chuẩn hóa Unicode.
 
 ## C. Regex (51-75)
 
-- [ ] Kiểm tra email.
-- [ ] Kiểm tra URL.
-- [ ] Kiểm tra IPv4.
-- [ ] Kiểm tra IPv6.
-- [ ] Kiểm tra CCCD.
-- [ ] Kiểm tra số điện thoại.
-- [ ] Kiểm tra biển số xe.
-- [ ] Kiểm tra MST.
-- [ ] Kiểm tra password.
-- [ ] Tìm số.
-- [ ] Tìm ngày.
-- [ ] Tìm tiền.
-- [ ] Tìm hashtag.
-- [ ] Tìm mention.
-- [ ] Tìm HTML tag.
-- [ ] Xóa HTML.
-- [ ] Parse log.
-- [ ] Parse CSV.
-- [ ] Parse JSON text.
-- [ ] Parse XML.
-- [ ] Parse Markdown.
-- [ ] Parse SQL.
-- [ ] Parse URL query.
-- [ ] Parse User-Agent.
-- [ ] Parse email header.
+- [x] Kiểm tra email.
+- [x] Kiểm tra URL.
+- [x] Kiểm tra IPv4.
+- [x] Kiểm tra IPv6.
+- [x] Kiểm tra CCCD.
+- [x] Kiểm tra số điện thoại.
+- [x] Kiểm tra biển số xe.
+- [x] Kiểm tra MST.
+- [x] Kiểm tra password.
+- [x] Tìm số.
+- [x] Tìm ngày.
+- [x] Tìm tiền.
+- [x] Tìm hashtag.
+- [x] Tìm mention.
+- [x] Tìm HTML tag.
+- [x] Xóa HTML.
+- [x] Parse log.
+- [x] Parse CSV.
+- [x] Parse JSON text.
+- [x] Parse XML.
+- [x] Parse Markdown.
+- [x] Parse SQL.
+- [x] Parse URL query.
+- [x] Parse User-Agent.
+- [x] Parse email header.
 
 ## D. Nâng cao (76-100)
 
-- [ ] Levenshtein Distance.
-- [ ] Similarity.
-- [ ] Fuzzy Search.
-- [ ] Anagram.
-- [ ] KMP Search.
-- [ ] Rabin-Karp.
-- [ ] Boyer-Moore.
-- [ ] Trie.
-- [ ] Autocomplete.
-- [ ] Spell Check.
-- [ ] Word Count.
-- [ ] Concordance.
-- [ ] Sentiment đơn giản.
-- [ ] Keyword Extraction.
-- [ ] Text Summary đơn giản.
-- [ ] Word Cloud dữ liệu.
-- [ ] Search Engine mini.
-- [ ] Chatbot keyword.
-- [ ] Markdown parser.
-- [ ] BBCode parser.
-- [ ] Template engine.
-- [ ] Slug generator.
-- [ ] URL friendly string.
-- [ ] HTML escape.
-- [ ] HTML unescape.
+- [x] Levenshtein Distance.
+- [x] Similarity.
+- [x] Fuzzy Search.
+- [x] Anagram.
+- [x] KMP Search.
+- [x] Rabin-Karp.
+- [x] Boyer-Moore.
+- [x] Trie.
+- [x] Autocomplete.
+- [x] Spell Check.
+- [x] Word Count.
+- [x] Concordance.
+- [x] Sentiment đơn giản.
+- [x] Keyword Extraction.
+- [x] Text Summary đơn giản.
+- [x] Word Cloud dữ liệu.
+- [x] Search Engine mini.
+- [x] Chatbot keyword.
+- [x] Markdown parser.
+- [x] BBCode parser.
+- [x] Template engine.
+- [x] Slug generator.
+- [x] URL friendly string.
+- [x] HTML escape.
+- [x] HTML unescape.
 
 ---
 
